@@ -1,0 +1,6 @@
+{
+  "name": "Single Page Law Site",
+  "description": "An elegant, single-page professional web application for a premier law practice, featuring areas of expertise, attorney profiles, consultation scheduling, and an interactive legal retainer fee estimator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
